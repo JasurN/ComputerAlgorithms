@@ -1,7 +1,8 @@
 ## Introduction
-This repository about sorting algorithms. These algoritms are Insertion Sort,
-Quick Sort, Merge Sort, Radix sort, Bucket sort.
+This repository about different algorithms.
+If you would like to contribute to this directory contact with
 
-## Repository rules
+## Repository conversion
 In master directory is always working and deployable files. 
 All new features should be done in branches with specific name.
+
