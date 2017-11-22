@@ -15,7 +15,7 @@ std::vector<int> Input::takeInput() {
 
     if (choice < 3 && choice > 0) {
         takenArray = takeSize(choice);
-    } else {
+    } else {//todo : say about error
         takenArray = takeInput();
     }
 
@@ -34,7 +34,7 @@ std::vector<int> Input::takeSize(int choice) {
         if (choice == 1) {
             array = randomize(size);
         }
-        else if (choice == 2) {
+        else if (choice == 2) {//todo : say about error
             array = takeInputFromUser(size);
         }
     }

@@ -1,13 +1,8 @@
-/*#include "../helperClasses/Input.hpp"
+#include "../sorting/InsertionSort.hpp"
 
 int main(){
-    Input inputObj;
-    std::vector<int> array;
-    array = inputObj.takeInput();
+    InsertionSort insertionSortObj;
 
-    for (int i : array) {
-        std::cout << i << " ";
-    }
-
+    insertionSortObj.printSortedArray();
     return 0;
-}*/
+}
