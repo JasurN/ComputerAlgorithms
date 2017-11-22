@@ -9,10 +9,10 @@
  */
 class Input {
 public:
-
-    std::vector takeInput();
-    std::vector randomize(int size);
-    std::vector takeInputFromUser(int size);
+    std::vector<int> takeInput();
+    std::vector<int> takeSize(int);
+    std::vector<int> randomize(int);
+    std::vector<int> takeInputFromUser(int);
 private:
 };
 #endif //SORTINGALGORITHMS_INPUT_HPP
