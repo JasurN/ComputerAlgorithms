@@ -1,4 +1,4 @@
-#include "../helperClasses/Input.hpp"
+/*#include "../helperClasses/Input.hpp"
 
 int main(){
     Input inputObj;
@@ -10,4 +10,4 @@ int main(){
     }
 
     return 0;
-}
+}*/
