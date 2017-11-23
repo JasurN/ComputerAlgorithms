@@ -1,8 +1,8 @@
 #include "../sorting/InsertionSort.hpp"
 
-/*int main(){
+int main(){
     InsertionSort insertionSortObj;
 
     insertionSortObj.printSortedArray();
     return 0;
-}*/
+}
