@@ -1,9 +1,9 @@
 ## Introduction
-This repository about different algorithms. It contains sorting, searching and many others tecniques. 
-Currently it is implemented in C++, But further it will be available in Python, Java.
-If you would like to contribute to this directory contact with
+This repository has different computer algorithms. Repository contains sorting, searching, Hackerrank.com solution algorithms. 
+Currently algorithms is implemented in C++, But further it will be available in Python, Java.
+If you would like to contribute or fix error, please create issue. 
 
 ## Repository conversion
-In master directory is always working and deployable files. 
-All new features should be done in branches with specific name.
+Master branch has fully working source codes. 
+All new features should be done in branches with feature name.
 
