@@ -3,5 +3,5 @@ project(SortingAlgorithms)
 
 set(CMAKE_CXX_STANDARD 17)
 
-set(SOURCE_FILES leetcode/ToLowerCase.cpp)
+set(SOURCE_FILES leetcode/test.cpp)
 add_executable(SortingAlgorithms ${SOURCE_FILES})
