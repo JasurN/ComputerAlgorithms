@@ -1,7 +1,7 @@
-.idea/*
 .idea
-cmake-build-debug/*
+.idea/*
 cmake-build-debug
-venv/*
+cmake-build-debug/*
 venv
+venv/*
 leetcode/test.cpp
